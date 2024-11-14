@@ -23,6 +23,6 @@ The notebook may also be used in other Python notebook environments (eg- Jupyter
 
 ## Citation
 
-The input dataset is **PX**D037757 (van der Ven et al., 2023) published on the Proteome Exchange database. For the full publication, check out the citation below-
+The input dataset is PXD037757 (van der Ven et al., 2023) published on the Proteome Exchange database. For the full publication, check out the citation below-
 
-van der Ven, Amelie T., et al. "Expanding the phenotypic and biochemical spectrum of NDUFAF3-related mitochondrial disease." Molecular Genetics and Metabolism 140.3 (2023): 107675.
+van der Ven, Amelie T., et al. **"Expanding the phenotypic and biochemical spectrum of NDUFAF3-related mitochondrial disease."** Molecular Genetics and Metabolism 140.3 (2023): 107675.
