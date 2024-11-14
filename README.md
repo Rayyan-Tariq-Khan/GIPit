@@ -1,6 +1,6 @@
 **Try the demo version >** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rayyan-Tariq-Khan/Gipit/blob/main/Gipit_Demo.ipynb)
 
-# Gipit
+# GIPit
 An execution and analysis workflow for [GIP](https://github.com/joerivstrien/gip-bio) (Gaussian Interaction Profiler)
 
 ## Description
