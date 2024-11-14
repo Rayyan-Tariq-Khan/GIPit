@@ -1,4 +1,4 @@
-**Try the demo version >** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rayyan-Tariq-Khan/Gipit/blob/main/Gipit_Demo.ipynb)
+**Try the demo version >** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rayyan-Tariq-Khan/GIPit/blob/main/GIPit_Demo.ipynb)
 
 # GIPit
 An execution and analysis workflow for [GIP](https://github.com/joerivstrien/gip-bio) (Gaussian Interaction Profiler)
@@ -20,3 +20,9 @@ The following data exemplifying the input format are provided in the Input folde
 The workbook was originally scripted in Colab. Simply create an appropriately labelled folder in Google Drive, upload the notebook and the input files directory into the folder, and launch the notebook in Colab. Once it has been launched, mount your Google drive from within the Colab environment and follow the cell wise instructions.
 
 The notebook may also be used in other Python notebook environments (eg- Jupyter or Anaconda notebook).
+
+## Citation
+
+The input dataset is **PX**D037757 (van der Ven et al., 2023) published on the Proteome Exchange database. For the full publication, check out the citation below-
+
+van der Ven, Amelie T., et al. "Expanding the phenotypic and biochemical spectrum of NDUFAF3-related mitochondrial disease." Molecular Genetics and Metabolism 140.3 (2023): 107675.
