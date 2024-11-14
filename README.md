@@ -1,10 +1,10 @@
-**Try the demo version >** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rayyan-Tariq-Khan/Easy-GIP/blob/main/Easy_GIP_Demo.ipynb)
+**Try the demo version >** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rayyan-Tariq-Khan/Gipit/blob/main/Gipit_Demo.ipynb)
 
-# Easy-GIP
+# Gipit
 An execution and analysis workflow for [GIP](https://github.com/joerivstrien/gip-bio) (Gaussian Interaction Profiler)
 
 ## Description
-Easy-GIP is a Python notebook that lets you easily run [GIP](https://github.com/joerivstrien/gip-bio) as well as analyse the output in a graphical manner. It also contains a molecular weight calibrator for gel slices from a complexomic experimental run.
+GIPit is a Python notebook that lets you easily run [GIP](https://github.com/joerivstrien/gip-bio) as well as analyse the output in a graphical manner. It also contains a molecular weight calibrator for gel slices from a complexomic experimental run.
 
 ## Input formats
 The following data exemplifying the input format are provided in the Input folder-
