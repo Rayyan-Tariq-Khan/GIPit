@@ -3,7 +3,7 @@
 **Try the full version >** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rayyan-Tariq-Khan/GIPit/blob/main/GIPit.ipynb)
 
 # GIPit
-An execution and analysis workflow for [GIP](https://github.com/joerivstrien/gip-bio) (Gaussian Interaction Profiler)
+An execution and analysis workflow for [GIP](https://github.com/joerivstrien/gip-bio) [(Gaussian Interaction Profiler)](https://pubmed.ncbi.nlm.nih.gov/39262370/)
 
 ## Description
 GIPit is a Python notebook that lets you easily run [GIP](https://github.com/joerivstrien/gip-bio) as well as analyse the output in a graphical manner. It also contains a molecular weight calibrator for gel slices from a complexomic experimental run.
@@ -27,4 +27,4 @@ The notebook may also be used in other Python notebook environments (eg- Jupyter
 
 The input dataset is [PXD037757](https://www.ebi.ac.uk/pride/archive/projects/PXD037757) (van der Ven et al., 2023) published on the Proteome Exchange database. For the full publication, check out the citation below-
 
-van der Ven, Amelie T., et al. [**"Expanding the phenotypic and biochemical spectrum of NDUFAF3-related mitochondrial disease."**](https://pubmed.ncbi.nlm.nih.gov/39262370/) Molecular Genetics and Metabolism 140.3 (2023): 107675.
+van der Ven, Amelie T., et al. [**"Expanding the phenotypic and biochemical spectrum of NDUFAF3-related mitochondrial disease."**](https://pubmed.ncbi.nlm.nih.gov/37572574/) Molecular Genetics and Metabolism 140.3 (2023): 107675.
